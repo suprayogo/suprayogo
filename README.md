@@ -11,7 +11,6 @@ Full-stack Web Developer & Mobile App Enthusiast
 ## 🌱 Learning
 - Currently mastering React for front-end development
 - Enhancing my skills in Node.js for back-end development
-- Exploring cloud technologies like AWS and Azure
 
 ## 💞️ Collaboration
 - Interested in collaborating on open-source projects
