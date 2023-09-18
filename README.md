@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Rizki Suprayogo
-Full-stack Web Developer & Mobile App Enthusiast
+Full-stack Web Developer & Mobile Developer
 
 ## 👀 Interests
 - Full-stack web development
