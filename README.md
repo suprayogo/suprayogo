@@ -5,7 +5,6 @@ Full-stack Web Developer & Mobile Developer
 ## 👀 Interests
 - Full-stack web development
 - Mobile app development
-- Software engineering
 - Exploring emerging technologies
 
 ## 🌱 Learning
